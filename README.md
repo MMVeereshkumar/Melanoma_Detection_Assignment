@@ -53,7 +53,7 @@ In cancer, there are over 200 different forms. Out of 200, melanoma is the deadl
 ## Technologies Used
 - Language: Python
 - Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Keras, Tensorflow
-- IDE: Google Colab
+- IDE: Google Colaboratory, Google Drive
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 

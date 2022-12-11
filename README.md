@@ -34,9 +34,9 @@
 - To control the overfitting problem, we applied **Data Augmentation Strategy**. With this we can able to control the accuracy
     - Training Accuracy: ~50%     
     - Validation Accuracy: ~50%
-- To improve the accuracy, we used the **Augmentor package** and handled the class imbalancce
-    - Training Accuracy: ~50%     
-    - Validation Accuracy: ~50%
+- To improve the accuracy, we used the **Augmentor package** and handled the class imbalancce with 20 epochs
+    - Training Accuracy: ~85%     
+    - Validation Accuracy: ~78%
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->

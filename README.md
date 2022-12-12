@@ -36,6 +36,8 @@ In cancer, there are over 200 different forms. Out of 200, melanoma is the deadl
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Summary
+- **Seborrheic Keratosis** has least number of samples
+- **Pigmented benign keratosis** be the dominating classes followed by **Melanoma**
 - With the base CNN model, the model is suffering from over-fitting
     - Training Accuracy: ~80%     
     - Validation Accuracy: ~45%

@@ -39,7 +39,7 @@ In cancer, there are over 200 different forms. Out of 200, melanoma is the deadl
 - **Seborrheic Keratosis** has least number of samples
 - **Pigmented benign keratosis** be the dominating classes followed by **Melanoma**
 - With the base CNN model, the model is suffering from over-fitting
-    - Training Accuracy: ~80%     
+    - Training Accuracy: ~73%     
     - Validation Accuracy: ~45%
 - To control the overfitting problem, we applied **Data Augmentation Strategy**. With this we can able to control the accuracy
     - Training Accuracy: ~50%     
